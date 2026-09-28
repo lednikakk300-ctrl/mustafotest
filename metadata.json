@@ -1,0 +1,7 @@
+{
+  "name": "AQL TEST - Maktab Bilimlar Viktorinasi",
+  "description": "1-11 sinf o'quvchilari uchun zamonaviy va professional ta'limiy test platformasi. Matematika, Fizika, Kimyo, Tarix va boshqa fanlar bo'yicha 50 talik sifatli testlar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
